@@ -1,0 +1,12 @@
+{
+  "project": "광명",
+  "defaultVisibility": "public",
+  "publicPages": {
+    "20260718-himart-appliances": "public",
+    "20260630-water-meter": "public"
+  },
+  "privatePages": {
+    "count": 1,
+    "detailsStoredExternally": true
+  }
+}
