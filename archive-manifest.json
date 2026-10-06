@@ -1,0 +1,23 @@
+{
+  "project": "gwangmyeong",
+  "visibility": "public",
+  "records": [
+    {
+      "source": "20260718-하이마트 가전 구매",
+      "slug": "20260718-하이마트-가전-구매",
+      "date": "20260718",
+      "title": "하이마트 가전 구매·결제 기록",
+      "html": "archive/20260718-하이마트-가전-구매/index.html",
+      "sourceType": "html",
+      "htmlIdentical": true,
+      "media": {
+        "image": 11,
+        "video": 0,
+        "audio": 0,
+        "pdf": 0,
+        "document": 0,
+        "other": 0
+      }
+    }
+  ]
+}
